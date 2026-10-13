@@ -1,6 +1,6 @@
 # SACS — School Administration & Control System
 
-A cross-platform mobile application built with **Expo Router** and **React Native**, designed to streamline school management operations. Currently under active development.
+A cross-platform multi-tenant mobile application built with **Expo Router** and **React Native**, designed to streamline school management operations. Currently under active development.
 
 ## Stack
 
